@@ -1,6 +1,5 @@
 
 // Author Laurent Brunel
-package com.cionin.math;
 
 
 /**
