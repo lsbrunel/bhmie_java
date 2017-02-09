@@ -1,6 +1,5 @@
-package com.photonlyx.physics.scattering;
 
-import com.cionin.math.Complex;
+import Complex;
 
 public class BhMie
 {
