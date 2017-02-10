@@ -2,7 +2,7 @@
 
 www.photonlyx.com
 
-![PhotonLyX](http://www.photonlyx.com/images/header.png)
+![PhotonLyX](http://www.photonlyx.com/images/header_w250.png)
 
 Adaptation in java of the FORTRAN code of Thomas P. Robitaille (see https://github.com/hyperion-rt/bhmie ),
 itself derived from the Bohren-Huffman Mie scattering subroutine to calculate 
